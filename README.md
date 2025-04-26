@@ -1,25 +1,52 @@
-<h1 align="center">
-  ⚡ Mid-term-spring-2025 ⚡
-</h1>
+# 📚 Midterm Exam Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Neon Code Vibes">
-</p>
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Free-lightgrey)
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+Future;C+Programming+with+Style;Midterm+Spring+2025+Challenge;Let’s+Code+Beyond+Limits!&font=Fira%20Code&center=true&width=440&height=45&color=00F0FF&vCenter=true&pause=1000">
-</p>
+This repository contains solutions to various programming problems completed during my **Midterm Exam**.  
+Each program is focused on clean logic, efficient structure, and user-friendly interaction.
 
 ---
 
-# 🧠 About the Project
+## ✨ List of Projects
 
-> Dive into a **futuristic realm** of **C programming** where logic meets innovation.  
-> Crafted for the **Midterm Spring 2025** challenge, this repository features sleek, efficient, and powerful C algorithms. 🚀
+- 🔢 **Armstrong Number Checker**  
+  ➔ Checks if a number is an Armstrong number.
+
+- 🔺 **Pyramid Pattern Generator**  
+  ➔ Prints beautiful pyramid/star patterns.
+
+- 🔄 **Reverse and Sum of Digits**  
+  ➔ Reverses a number and calculates the sum of its digits.
+
+- 🧮 **Rectangle Checker**  
+  ➔ Verifies if given sides form a valid rectangle and calculates area and perimeter.
+
+- 🌡️ **Temperature Analysis**  
+  ➔ Analyzes temperatures to find average, highest, and lowest readings.
+
+- ➕ **Other Programs**  
+  ➔ Includes extra basic programs and exercises for better practice.
 
 ---
 
-# 📂 Project Structure
+## 🛠️ Technologies Used
 
+- **Programming Language**: C
+- **IDE**: Code::Blocks / VS Code / Dev-C++ (based on user choice)
+- **Compiler**: GCC
+
+---
+
+## 📂 How to Run
+
+1. Clone or download this repository.
+2. Open any `.c` file using your favorite IDE.
+3. Compile the code.
+4. Run the executable and follow on-screen instructions.
+
+Example command:
+```bash
+gcc armstrong.c -o armstrong
+./armstrong
