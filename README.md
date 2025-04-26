@@ -16,9 +16,7 @@ This collection showcases my solutions to various programming problems, emphasiz
 - [✨ Projects](#-projects)
 - [🛠️ Technologies Used](#-technologies-used)
 - [📂 How to Run](#-how-to-run)
-- [🎯 Purpose of These Projects](#-purpose-of-these-projects)
-- [🧠 Skills Demonstrated](#-skills-demonstrated)
-- [📬 Contact](#-contact)
+
 
 ---
 
