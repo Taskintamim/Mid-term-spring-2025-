@@ -1,52 +1,51 @@
 # 📚 Midterm Exam Projects
 
-![Language](https://img.shields.io/badge/Language-C-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-Free-lightgrey)
-
-This repository contains solutions to various programming problems completed during my **Midterm Exam**.  
-Each program is focused on clean logic, efficient structure, and user-friendly interaction.
+![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Free-lightgrey?style=for-the-badge)
 
 ---
 
-## ✨ List of Projects
+Welcome to my **Midterm Exam Projects** repository!  
+This collection showcases my solutions to various programming problems, emphasizing clean logic, proper structure, and user-friendly interaction. 🚀
 
-- 🔢 **Armstrong Number Checker**  
-  ➔ Checks if a number is an Armstrong number.
+---
 
-- 🔺 **Pyramid Pattern Generator**  
-  ➔ Prints beautiful pyramid/star patterns.
+## 📋 Table of Contents
 
-- 🔄 **Reverse and Sum of Digits**  
-  ➔ Reverses a number and calculates the sum of its digits.
+- [✨ Projects](#-projects)
+- [🛠️ Technologies Used](#-technologies-used)
+- [📂 How to Run](#-how-to-run)
+- [🎯 Purpose of These Projects](#-purpose-of-these-projects)
+- [🧠 Skills Demonstrated](#-skills-demonstrated)
+- [📬 Contact](#-contact)
 
-- 🧮 **Rectangle Checker**  
-  ➔ Verifies if given sides form a valid rectangle and calculates area and perimeter.
+---
 
-- 🌡️ **Temperature Analysis**  
-  ➔ Analyzes temperatures to find average, highest, and lowest readings.
+## ✨ Projects
 
-- ➕ **Other Programs**  
-  ➔ Includes extra basic programs and exercises for better practice.
+| Project | Description |
+|:---|:---|
+| 🔢 **Armstrong Number Checker** | Check if a number is an Armstrong number |
+| 🔺 **Pyramid Pattern Generator** | Print various pyramid/star patterns |
+| 🔄 **Reverse and Sum of Digits** | Reverse a number and sum its digits |
+| 🧮 **Rectangle Checker** | Validate rectangle sides, find area and perimeter |
+| 🌡️ **Temperature Analysis** | Analyze temperatures: average, highest, lowest |
+| ➕ **Other Programs** | Extra exercises for better programming practice |
 
 ---
 
 ## 🛠️ Technologies Used
 
 - **Programming Language**: C
-- **IDE**: Code::Blocks / VS Code / Dev-C++ (based on user choice)
 - **Compiler**: GCC
+- **IDE**: Code::Blocks / Visual Studio Code / Dev-C++
 
 ---
 
 ## 📂 How to Run
 
-1. Clone or download this repository.
-2. Open any `.c` file using your favorite IDE.
-3. Compile the code.
-4. Run the executable and follow on-screen instructions.
-
-Example command:
 ```bash
-gcc armstrong.c -o armstrong
-./armstrong
+# Example (for C files)
+gcc filename.c -o outputfile
+./outputfile
